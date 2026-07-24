@@ -1,5 +1,9 @@
 ## Hi there 👋
 <!-- QUOTE-START -->
+### 💬 Quote of the Day
+
+> Big people don't make people feel small. — *Robin Sharma*
+
 <!-- QUOTE-END -->
 <!--
 **afshan-khan549/afshan-khan549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
