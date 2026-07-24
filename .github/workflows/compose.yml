@@ -1,0 +1,51 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # runs daily at 3:30 AM UTC (9 AM IST)
+  workflow_dispatch:        # lets you also trigger it manually anytime
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a quote
+        run: |
+          curl -s https://zenquotes.io/api/random > quote.json
+          QUOTE=$(cat quote.json | jq -r '.[0].q')
+          AUTHOR=$(cat quote.json | jq -r '.[0].a')
+          echo "$QUOTE — *$AUTHOR*" > quote.txt
+
+      - name: Update README
+        run: |
+          python3 - <<'EOF'
+          with open('quote.txt') as f:
+              quote = f.read().strip()
+          with open('README.md') as f:
+              content = f.read()
+
+          import re
+          new_section = f"### 💬 Quote of the Day\n\n> {quote}\n"
+          if "<!-- QUOTE-START -->" in content:
+              content = re.sub(
+                  r"<!-- QUOTE-START -->.*<!-- QUOTE-END -->",
+                  f"<!-- QUOTE-START -->\n{new_section}\n<!-- QUOTE-END -->",
+                  content,
+                  flags=re.DOTALL
+              )
+          else:
+              content += f"\n<!-- QUOTE-START -->\n{new_section}\n<!-- QUOTE-END -->\n"
+
+          with open('README.md', 'w') as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Daily update: $(date +%F)" || echo "Nothing new to commit"
+          git push
