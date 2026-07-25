@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Big people don't make people feel small. — *Robin Sharma*
+> Strive for excellence, not perfection, because we don't live in a perfect world. — *Joyce Meyer*
 
 <!-- QUOTE-END -->
 <!--
