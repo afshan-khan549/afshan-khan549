@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Strive for excellence, not perfection, because we don't live in a perfect world. — *Joyce Meyer*
+> Who can say for sure that one will live to see tomorrow. — *Tibetan Proverb*
 
 <!-- QUOTE-END -->
 <!--
