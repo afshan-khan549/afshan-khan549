@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Who can say for sure that one will live to see tomorrow. — *Tibetan Proverb*
+> There are as many opinions as there are experts. — *Franklin D. Roosevelt*
 
 <!-- QUOTE-END -->
 <!--
