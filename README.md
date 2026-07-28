@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> There are as many opinions as there are experts. — *Franklin D. Roosevelt*
+> It's not what we do once in a while that shapes our lives, but what we do consistently. — *Tony Robbins*
 
 <!-- QUOTE-END -->
 <!--
