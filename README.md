@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It's not what we do once in a while that shapes our lives, but what we do consistently. — *Tony Robbins*
+> The more you feed your mind with positive thoughts, the more you can attract great things into your life. — *Roy T. Bennett*
 
 <!-- QUOTE-END -->
 <!--
