@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The more you feed your mind with positive thoughts, the more you can attract great things into your life. — *Roy T. Bennett*
+> The score never interested me, only the game. — *Mae West*
 
 <!-- QUOTE-END -->
 <!--
