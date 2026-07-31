@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The score never interested me, only the game. — *Mae West*
+> I have never let my schooling interfere with my education. — *Mark Twain*
 
 <!-- QUOTE-END -->
 <!--
