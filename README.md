@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> I have never let my schooling interfere with my education. — *Mark Twain*
+> Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. — *Ayn Rand*
 
 <!-- QUOTE-END -->
 <!--
