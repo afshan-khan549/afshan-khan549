@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. — *Ayn Rand*
+> To do great work one must be very idle as well as very industrious. — *Samuel Butler*
 
 <!-- QUOTE-END -->
 <!--
