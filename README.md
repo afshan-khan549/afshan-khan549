@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> To do great work one must be very idle as well as very industrious. — *Samuel Butler*
+> The wisest men follow their own direction. — *Euripides*
 
 <!-- QUOTE-END -->
 <!--
