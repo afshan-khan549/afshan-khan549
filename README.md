@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. — *Steve Maraboli*
+> Some people feel the rain. Others just get wet. — *Bob Dylan*
 
 <!-- QUOTE-END -->
 <!--
