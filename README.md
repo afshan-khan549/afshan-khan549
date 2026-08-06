@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Some people feel the rain. Others just get wet. — *Bob Dylan*
+> If you cannot control your emotions, you cannot control your money. — *Warren Buffett*
 
 <!-- QUOTE-END -->
 <!--
