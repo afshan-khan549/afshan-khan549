@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you cannot control your emotions, you cannot control your money. — *Warren Buffett*
+> Learn to sit back and observe, not everything needs a reaction. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
