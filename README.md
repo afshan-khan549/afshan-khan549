@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Learn to sit back and observe, not everything needs a reaction. — *Unknown*
+> Do not bite at the bait of pleasure, till you know there is no hook beneath it. — *Thomas Jefferson*
 
 <!-- QUOTE-END -->
 <!--
