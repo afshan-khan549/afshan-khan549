@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Do not bite at the bait of pleasure, till you know there is no hook beneath it. — *Thomas Jefferson*
+> Life has no limitations except the ones you make. — *Les Brown*
 
 <!-- QUOTE-END -->
 <!--
