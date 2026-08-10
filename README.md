@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Life has no limitations except the ones you make. — *Les Brown*
+> If you want something new, you have to stop doing something old. — *Peter Drucker*
 
 <!-- QUOTE-END -->
 <!--
