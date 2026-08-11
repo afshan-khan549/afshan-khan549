@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you want something new, you have to stop doing something old. — *Peter Drucker*
+> Whatever you decide to do, make sure it makes you happy. — *Paulo Coelho*
 
 <!-- QUOTE-END -->
 <!--
