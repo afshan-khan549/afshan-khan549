@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Whatever you decide to do, make sure it makes you happy. — *Paulo Coelho*
+> You don't need to be better than anyone else, you just need to be better than you used to be. — *Wayne Dyer*
 
 <!-- QUOTE-END -->
 <!--
