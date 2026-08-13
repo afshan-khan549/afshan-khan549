@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> You don't need to be better than anyone else, you just need to be better than you used to be. — *Wayne Dyer*
+> Unless someone truly has the power to say no, they never truly have the power to say yes. — *Dan Millman*
 
 <!-- QUOTE-END -->
 <!--
