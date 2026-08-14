@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Unless someone truly has the power to say no, they never truly have the power to say yes. — *Dan Millman*
+> Never argue with ignorance. It only leads to frustration. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
