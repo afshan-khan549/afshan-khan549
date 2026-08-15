@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Never argue with ignorance. It only leads to frustration. — *Unknown*
+> Just living is not enough... one must have sunshine, freedom, and a little flower. — *Hans Christian Andersen*
 
 <!-- QUOTE-END -->
 <!--
