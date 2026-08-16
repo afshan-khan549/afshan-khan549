@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Just living is not enough... one must have sunshine, freedom, and a little flower. — *Hans Christian Andersen*
+> The secret of success lies not in doing your own work, but in recognizing the right man to do it. — *Andrew Carnegie*
 
 <!-- QUOTE-END -->
 <!--
