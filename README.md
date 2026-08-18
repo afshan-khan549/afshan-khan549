@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Productize your perspective. — *Jack Butcher*
+> I am not proud, but I am happy; and happiness blinds, I think, more than pride. — *Alexandre Dumas*
 
 <!-- QUOTE-END -->
 <!--
