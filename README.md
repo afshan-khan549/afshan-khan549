@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> I am not proud, but I am happy; and happiness blinds, I think, more than pride. — *Alexandre Dumas*
+> Words are the clothing of our thoughts. — *Jonathan Swift*
 
 <!-- QUOTE-END -->
 <!--
