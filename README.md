@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Words are the clothing of our thoughts. — *Jonathan Swift*
+> Only put off until tomorrow what you are willing to die having left undone. — *Pablo Picasso*
 
 <!-- QUOTE-END -->
 <!--
