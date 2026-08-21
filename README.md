@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Only put off until tomorrow what you are willing to die having left undone. — *Pablo Picasso*
+> Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge. — *Eckhart Tolle*
 
 <!-- QUOTE-END -->
 <!--
