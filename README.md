@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. — *Unknown*
+> Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. — *Aristophanes*
 
 <!-- QUOTE-END -->
 <!--
