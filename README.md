@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. — *Aristophanes*
+> All great truths begin as blasphemies. — *George Bernard Shaw*
 
 <!-- QUOTE-END -->
 <!--
