@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> All great truths begin as blasphemies. — *George Bernard Shaw*
+> It's good to learn from your mistakes. It's better to learn from other people's mistakes. — *Warren Buffett*
 
 <!-- QUOTE-END -->
 <!--
