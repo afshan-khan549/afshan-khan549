@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> It's good to learn from your mistakes. It's better to learn from other people's mistakes. — *Warren Buffett*
+> Nothing is more real than nothing. — *Samuel Beckett*
 
 <!-- QUOTE-END -->
 <!--
