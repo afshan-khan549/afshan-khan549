@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Nothing is more real than nothing. — *Samuel Beckett*
+> The key to immortality is first living a life worth remembering. — *Bruce Lee*
 
 <!-- QUOTE-END -->
 <!--
