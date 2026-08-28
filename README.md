@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> The key to immortality is first living a life worth remembering. — *Bruce Lee*
+> The wise warrior avoids the battle. — *Sun Tzu*
 
 <!-- QUOTE-END -->
 <!--
