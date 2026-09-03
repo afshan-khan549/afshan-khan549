@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> In life you need either inspiration or desperation. — *Tony Robbins*
+> Greatest success comes just one step beyond the point at which defeat overtakes you. — *Unknown*
 
 <!-- QUOTE-END -->
 <!--
