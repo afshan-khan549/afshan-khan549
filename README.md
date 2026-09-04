@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Greatest success comes just one step beyond the point at which defeat overtakes you. — *Unknown*
+> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. — *Betty White*
 
 <!-- QUOTE-END -->
 <!--
