@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. — *Betty White*
+> Talk sense to a fool and he calls you foolish. — *Euripides*
 
 <!-- QUOTE-END -->
 <!--
