@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Talk sense to a fool and he calls you foolish. — *Euripides*
+> Manifest plainness, embrace simplicity, reduce selfishness, have few desires. — *Lao Tzu*
 
 <!-- QUOTE-END -->
 <!--
