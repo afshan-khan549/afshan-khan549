@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Manifest plainness, embrace simplicity, reduce selfishness, have few desires. — *Lao Tzu*
+> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. — *Charles Dickens*
 
 <!-- QUOTE-END -->
 <!--
