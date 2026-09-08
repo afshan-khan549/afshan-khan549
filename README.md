@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. — *Charles Dickens*
+> If you want work well done, select a busy man; the other kind has no time. — *Elbert Hubbard*
 
 <!-- QUOTE-END -->
 <!--
