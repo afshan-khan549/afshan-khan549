@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> If you want work well done, select a busy man; the other kind has no time. — *Elbert Hubbard*
+> Everyone sees what you appear to be, few experience what you really are. — *Niccolo Machiavelli*
 
 <!-- QUOTE-END -->
 <!--
