@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Everyone sees what you appear to be, few experience what you really are. — *Niccolo Machiavelli*
+> Changing minds is harder than finding people who already agree. — *Jack Butcher*
 
 <!-- QUOTE-END -->
 <!--
