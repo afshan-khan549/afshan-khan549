@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> Changing minds is harder than finding people who already agree. — *Jack Butcher*
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer. — *Bruce Lee*
 
 <!-- QUOTE-END -->
 <!--
