@@ -2,7 +2,7 @@
 <!-- QUOTE-START -->
 ### 💬 Quote of the Day
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer. — *Bruce Lee*
+> We will now discuss in a little more detail the Struggle for Existence. — *Charles Darwin*
 
 <!-- QUOTE-END -->
 <!--
